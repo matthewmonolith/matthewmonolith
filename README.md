@@ -1,8 +1,19 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">A passionate full-stack developer from England</h3>
 
+- 🔭 I’m currently working on **a full stack app around meditation and neuroscience**
+
+- 🌱 I’m currently learning **Express & React**
+
+- 👨‍💻 All of my projects are available at [https://matthew-page-portfolio.netlify.app](https://matthew-page-portfolio.netlify.app)
+
+- 💬 Ask me about **HTML, CSS & JS**
+
+- 📫 How to reach me **matthew.page2016@outlook.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@matthewpage2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@matthewpage2016" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
