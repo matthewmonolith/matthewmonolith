@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">A passionate full-stack developer from England</h3>
 
-- 🔭 I’m currently working on **a full stack app around meditation and neuroscience**
+- 🔭 I’m currently working on **a full stack app around meditation, mental health and neuroscience**
 
 - 🌱 I’m currently learning **Express & React**
 
