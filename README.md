@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a full stack app around meditation, mental health and neuroscience**
 
-- 🌱 I’m currently learning **Express & React**
+- 🌱 I’m currently learning **Vite and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://matthew-page-portfolio.netlify.app](https://matthew-page-portfolio.netlify.app)
 
