@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">A passionate full-stack developer from England</h3>
 
-- 🔭 I’m currently working as a graduate developer for Parallel and in my free time I am creating a fullstack React application on **around meditation, mental health and neuroscience**
+- 🔭 I’m currently working as a graduate developer for Parallel and in my free time I like to create fullstack React applications.
 
-- 🌱 I’m currently learning **Typescript, Redux, Vue and Mapbox**
+- 🌱 I’m currently learning **Next.js and Jest with React Testing Library**
 
 - 👨‍💻 All of my projects are available at [https://matthew-page-portfolio.netlify.app](https://matthew-page-portfolio.netlify.app)
 
