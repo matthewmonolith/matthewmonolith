@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a graduate developer for Parallel and in my free time I like to create fullstack React applications.
 
-- 🌱 I’m currently learning **Next.js and Jest with React Testing Library**
+- 🌱 I’m currently learning **Cypress Testing Library**
 
 - 👨‍💻 All of my projects are available at [https://matthew-page-portfolio.netlify.app](https://matthew-page-portfolio.netlify.app)
 
