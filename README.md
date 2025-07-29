@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">A passionate full-stack developer from England</h3>
 
-- 🔭 I’m currently working as a Junior Software Developer for Parallel and in my free time I like to create fullstack React applications.
+- 🔭 I’m currently working as a Junior Software Developer, in my free time I like to create fullstack React applications.
 
 - 🌱 I’m currently learning **Cypress Testing Library**
 
