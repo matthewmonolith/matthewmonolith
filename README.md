@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Cypress Testing Library**
 
-- 👨‍💻 All of my projects are available at [https://matthew-page-portfolio.netlify.app](https://matthew-page-portfolio.netlify.app)
-
 - 💬 Ask me about **Javascript, SQL and React. As well you can ask me about neuroscience, mental health and clinical psychology**
 
 - 📫 How to reach me **matthew.page2016@outlook.com**
