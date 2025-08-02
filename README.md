@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a Junior Software Developer, in my free time I like to create fullstack React applications.
 
-- - 👨‍💻 All of my projects are available at [https://matthew-page-portfolio.netlify.app](https://matthew-page-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://matthew-page-portfolio.netlify.app](https://matthew-page-portfolio.netlify.app)
 
 - 🌱 I’m currently learning **Cypress Testing Library**
 
